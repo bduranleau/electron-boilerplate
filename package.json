@@ -1,0 +1,18 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "A simple text editor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Brian Duranleau",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "electron": "^20.0.1",
+    "electron-is-dev": "^2.0.0"
+  }
+}
